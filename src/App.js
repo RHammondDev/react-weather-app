@@ -6,8 +6,8 @@ import { FaSearchLocation } from 'react-icons/fa';
 
 const App = () => {
 
-  const unsplashKey = "D6WWHssanObs75SfSTRhSnBSTe0U9aSz5pjUfga-O6Y"
-  const weatherKey = "557ad1bb16f01478cccba0a34c796ef1"
+  const unsplashKey = ""
+  const weatherKey = ""
   const [temp, setTemp] = useState({});
   const [weather, setWeather] = useState({});
   const [location, setLocation] = useState("Toronto");
