@@ -15,5 +15,3 @@ Installation: Change Directory to the folder of the react-todo-app and then in t
 Start the Application: Type the following command in the terminal/console and then visit https://localhost:3000 in your browser if it does not launch automatically.
 
     npm run
-
-Thanks again to https://github.com/Ibaslogic for creating the tutorial.
